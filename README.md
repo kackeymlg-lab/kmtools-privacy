@@ -1,7 +1,7 @@
 # KMTools Privacy Policy
 
 ## Overview
-KMTools is a Chrome extension designed for Avito employees to manage Jira connection status and display user profile information.
+KMTools is a Chrome extension designed for employees to manage Jira connection status and display user profile information.
 
 ## Data Collection
 KMTools collects only the following minimal data:
@@ -17,4 +17,4 @@ KMTools collects only the following minimal data:
 - ✅ All data is cleared when you close the extension or browser
 
 ## Contact
-For privacy questions: support@avito.ru
+For privacy questions: kackeymlg@gmail.com
